@@ -6,3 +6,4 @@
 
 ### Uma única tecla de ação (pular) : Espaço/Space
 
+![dino ilustration](https://github.com/GabrielBressi/dinogame/blob/master/dino-ilustration.jpg)
